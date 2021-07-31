@@ -1,0 +1,23 @@
+{
+  "name": "netwila-tester",
+  "version": "1.0.0",
+  "description": "This is one project for test netwila application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro9bee/netwila-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro9bee/netwila-tester/issues"
+  },
+  "homepage": "https://github.com/pedro9bee/netwila-tester#readme",
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  }
+}
